@@ -1,0 +1,191 @@
+*{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    
+}
+.bg-black{
+    background-color: black !important; 
+}
+.items :hover{
+    cursor: pointer;
+    opacity: 90%;
+    color:white;
+}
+.fpage{
+    color:cornflowerblue;
+    font-style: italic;
+    font-weight: lighter;
+    font-size: 375%;
+    margin-top:150px;
+    text-align: center;
+}
+.map{
+    width: 100vw;
+    margin-left: 350px;
+}
+.AboutPage{
+    
+    width: 100%;
+    background: url("../Images/contact-us.jpg");
+    height: 600px;
+    background-size: cover;
+    background-repeat:no-repeat;
+    color:whitesmoke;
+}
+.Outercont{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 120%;
+    margin-right: 65px;
+
+}
+.Innercont{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 150%;
+}
+.Outercont-Carousel{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 120%;
+    /* margin-right: 65px; */
+    margin-left: 100px;
+    margin-bottom: auto;
+}
+.Innercont-Carousel{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 110%;
+}
+.container-fluid{
+    background-color: black;
+}
+/* .hpage{
+    background-color: black;
+} */
+.comp{
+    font-size: 250%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bolder;
+    font-style: italic;
+}
+.w-10{
+    width: 5%;
+}
+.Footer {
+    position: sticky;
+    /* bottom: 0%; */
+    top: 0%;
+    /* width: 100%; */
+    /* background-color: black; */
+    color:black;
+    z-index: 9999;
+}
+  .vehicles{
+      margin-inline-start: 20px;
+  }
+  .form{
+      margin-left: 850px;  
+  }
+
+  .btn{
+      width: 90px;
+  }
+  .datepicker{
+      background:transparent !important;
+  } 
+  .text-center{
+      text-align: center;
+      color:white;
+  }
+  .social {
+    margin: 10px;
+    width: 4%;
+
+  }
+  .carousel-caption{
+      margin-left: 60%;
+  }
+  .social:hover {
+    cursor: pointer;
+  }
+  header{
+      width: 100%;
+      background: url("../Images/red-tail-light-background-beautiful-sunset12.jpg");
+      height: 600px;
+      margin-bottom: 100px;
+      background-size: cover;
+      background-repeat: no-repeat;
+      color: cornflowerblue;
+  }
+  .w-40{
+      width: 40%;
+  }
+  .w-15{
+      width: 15%;
+  }
+  .w-20{
+      width: 20%;
+  }
+  .w-55{
+      width: 55%;
+  }
+  .w-60{
+      width: 60%;
+  }
+  .carousel-caption{
+      margin-left:5px;
+      
+  }
+  input.error {
+    border-color: red;
+  }
+  
+  .input-feedback {
+    color: rgb(235, 54, 54);
+    margin-top: -15px;
+    font-size: 14px;
+    margin-bottom: 20px;
+  }
+  
+  .button {
+    padding: 10px 15px;
+    background-color: cornflowerblue;
+    color: white;
+    border: 1px solid rgb(70, 153, 179);
+    background-color: 250ms;
+  }
+
+  
+  .button:hover {
+    cursor: pointer;
+    background-color:cornflowerblue;
+    color: white;
+  }
+  
+  button {
+    padding: 10px 15px;
+    background-color: cornflowerblue;
+    color: white;
+    border: 1px solid rgb(70, 153, 179);
+    background-color: 250ms;
+  }
+
+  button:hover {
+    cursor: pointer;
+    background-color: white;
+    color: rgb(70, 153, 179);
+  }
+
+  .orderC1{
+    margin-left: 520px;
+    font-weight: bold; 
+    color: white;
+  }
+  .orderC2{
+      margin-left: 20px; 
+      color: white;
+  }
+  .orderData{
+    background: url("../Images/orderData1.jpg");
+    
+  }

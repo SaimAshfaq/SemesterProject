@@ -1,0 +1,37 @@
+
+.signIn-form{
+    position: absolute;
+    top:60%;
+    left:50%;
+    -webkit-transform: translate(-50%,-50%);
+    -moz-transform: translate(-50%,-50%);
+    -ms-transform: translate(-50%,-50%);
+    -o-transform: translate(-50%,-50%);
+    transform: translate(-50%, -50%);
+    width: 400px;
+    height: 540px;
+    padding-top:20px;
+    background-size: cover;
+    background-color:black;
+    
+    opacity: 0.8;
+}
+.avatar{
+    position:relative;
+    width: 100px;
+    height: 100px;
+    margin-bottom: 30px;
+    border-radius:50%;
+    overflow: hidden;
+    top: calc(-10px/6);
+    left: calc(50% - 50px);
+}
+.signIn-form input[type=email],
+.signIn-form input[type=password]{
+  border: none;
+  border-bottom: 1px solid #fff;
+  background: transparent;
+  outline:none;
+  height: 35px;
+  color: #fff;
+}

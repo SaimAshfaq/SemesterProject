@@ -1,0 +1,54 @@
+{
+  "name": "mystic-tours",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.11.6",
+    "@testing-library/react": "^11.2.2",
+    "@testing-library/user-event": "^12.4.0",
+    "axios": "^0.21.1",
+    "bootstrap": "^4.5.3",
+    "email-validator": "^2.0.4",
+    "express": "^4.17.1",
+    "formik": "^2.2.6",
+    "lodash": "^4.17.20",
+    "mdbreact": "^5.0.1",
+    "mongodb": "^3.6.3",
+    "react": "^17.0.1",
+    "react-animated-css": "^1.2.1",
+    "react-bootstrap": "^1.4.0",
+    "react-datepicker": "^3.3.0",
+    "react-dom": "^17.0.1",
+    "react-responsive-carousel": "^3.2.11",
+    "react-router-dom": "^5.2.0",
+    "react-scripts": "4.0.1",
+    "save": "^2.4.0",
+    "styled-components": "^5.2.1",
+    "web-vitals": "^0.2.4",
+    "yup": "^0.32.8"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
